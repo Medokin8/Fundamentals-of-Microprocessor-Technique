@@ -1,1 +1,1 @@
-# Fundamentals-of-Microprocessor-Technique
+Repository for documentation for the subject Fundamentals_of_Microprocessor_Technique (Podstawy Techniki Mikroprocesorowej)
